@@ -18,7 +18,7 @@ Want to setup the project for local development?
 * Commit, push code and create a pull request
 
 ## Contributing
-Thank you for considering contributing to this small Python project! For contribution discuss, please shoot me a mail [starlingroot@protonmail.com](mailto:starlingroot@protonmail.com).
+You’ve used it, now you want to make it better? Awesome! Pull requests are welcome! 
 
 ## Security Vulnerabilities
 If you discover a vulnerability or bug within this project, please send an e-mail to Chidera Anichebe via [starlingroot@protonmail.com](mailto:starlingroot@protonmail.com). All bugs and vulnerabilities will be promptly addressed.
